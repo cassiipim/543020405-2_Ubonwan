@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-echo '<p>My name is Thanaporn Boonle</p>';
+echo '<p>My name is Uthaiwan  Jomtong</p>';
 ?>
